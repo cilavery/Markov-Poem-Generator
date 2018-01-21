@@ -1,0 +1,23 @@
+.container {
+    min-height: 300px;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    font-size: 2em;
+    line-height: 1.5em;
+  }
+  
+  #poem {
+    padding-top: 20px;
+  }
+  
+  #generatePoem {
+    text-align: center;
+  }
+  
+  .footer {
+    margin-top: 50px;
+    text-align: center;
+  }
